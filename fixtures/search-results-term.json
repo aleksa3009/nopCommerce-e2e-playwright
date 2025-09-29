@@ -1,0 +1,18 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Laptop Test Model",
+        "price": 1200.00,
+        "description": "High performance laptop for testing",
+        "url": "/laptop-test-model"
+      },
+      {
+        "id": 2,
+        "name": "Phone Test Model",
+        "price": 800.00,
+        "description": "Smartphone for testing",
+        "url": "/phone-test-model"
+      }
+    ]
+}
