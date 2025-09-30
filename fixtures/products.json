@@ -1,0 +1,12 @@
+[
+    {
+      "name": "Laptop Test Model",
+      "price": "$1,200.00",
+      "category": "Computers"
+    },
+    {
+      "name": "Phone Test Model",
+      "price": "$800.00",
+      "category": "Phones"
+    }
+]
