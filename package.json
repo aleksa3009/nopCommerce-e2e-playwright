@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "npx playwright test",
+    "test:auth": "npx playwright test tests/auth.spec.ts",
     "test:headed": "npx playwright test --headed",
     "test:debug": "npx playwright test --debug",
     "report:html": "npx playwright show-report",
