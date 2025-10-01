@@ -1,0 +1,13 @@
+{
+    "card": {
+      "number": "4111 1111 1111 1111",
+      "month": "12",
+      "year": "2026",
+      "cvv": "123"
+    },
+    "gatewayResponse": {
+      "status": "success",
+      "transactionId": "TX-12345678",
+      "message": "Approved"
+    }
+}  

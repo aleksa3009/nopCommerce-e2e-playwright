@@ -1,0 +1,12 @@
+{
+    "billing": {
+      "firstName": "Aleksa",
+      "lastName": "Aleksic",
+      "email": "aleksatestbilling@example.com",
+      "country": "Serbia",
+      "city": "Novi Sad",
+      "address1": "Ulica 1",
+      "zipPostal": "21000",
+      "phone": "+381601234567"
+    }
+}
